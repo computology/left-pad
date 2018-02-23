@@ -22,7 +22,7 @@
     "repeat"
   ],
   "repository": {
-    "url": "git@github.com:stevemao/left-pad.git",
+    "url": "git@github.com:computology/left-pad.git",
     "type": "git"
   },
   "author": "azer",
