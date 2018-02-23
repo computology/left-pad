@@ -1,5 +1,5 @@
 {
-  "name": "left-pad",
+  "name": "@computology/left-pad",
   "version": "1.2.0",
   "description": "String left pad",
   "main": "index.js",
