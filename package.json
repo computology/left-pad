@@ -1,6 +1,6 @@
 {
   "name": "@computology/left-pad",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "String left pad",
   "main": "index.js",
   "types": "index.d.ts",
